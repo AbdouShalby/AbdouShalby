@@ -22,3 +22,9 @@
 
 ## Contributions
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdouShalby&theme=dracula)
+
+## Top Languages by Repo
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdouShalby&theme=dracula)
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdouShalby&theme=dracula)
