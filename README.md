@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman Shalby</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Abdelrhman+Shalby;A+passionate+backend+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Tailwind**
 
