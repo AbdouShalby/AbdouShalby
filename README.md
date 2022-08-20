@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AbdouShalby](https://github.com/AbdouShalby)
+- 👨‍💻 All of my projects are available at [Repo](https://github.com/AbdouShalby?tab=repositories)
 
 - 💬 Ask me about **MySQL, PHP, Laravel**
 
