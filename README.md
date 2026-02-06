@@ -53,17 +53,20 @@ I am a **Full Stack Engineer** with 7+ years of experience specializing in the *
 ---
 
 ## 🤖 Advanced Capabilities
-- **Web Scraping:** Built custom Python scrapers (`Scraper/`) for multi-target data extraction (E-commerce prices, game stats).
 - **AI Integration:** Developing **Nanobot**, an internal AI agent for automated code refactoring and monitoring.
 - **Payment Gateways:** Integrated Stripe, PayPal, and local gateways for secure transactions handling **$10k+ monthly**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=radical" alt="Abdelrhman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdouShalby&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdouShalby&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdouShalby&theme=radical" alt="Most Commit Language" />
 </p>
 
 ---
