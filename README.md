@@ -1,63 +1,77 @@
 # Hi there, I'm Abdelrhman Shalby 👋
 
-### 👨‍💻 Senior Software Architect & Founder @ [Codeivity](https://codeivityeg.com)
+### 🚀 Senior Software Architect | Founder @ [Codeivity](https://codeivityeg.com)
 
-I am a seasoned **Full Stack Engineer** and **System Architect** with over 7 years of experience. I specialize in the **Laravel Ecosystem (v10-v12)**, **TypeScript**, and **Cloud Infrastructure**, delivering high-scale SaaS ecosystems and Multi-tenant Marketplaces.
+> *Building scalable ecosystems, not just websites. Architecting solutions for Logistics, Fintech, and Healthcare.*
 
----
-
-## 🛠️ Tech Stack & Arsenal
-
-**Backend & Architecture**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**DevOps & Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I am a **Full Stack Engineer** with 7+ years of experience specializing in the **Laravel Ecosystem (v10-v12)** and **Microservices Architecture**. I bridge the gap between complex business logic and high-performance code.
 
 ---
 
-## 💼 Selected Private Projects (Client Work)
+## 🛠️ The Arsenal (Tech Stack)
 
-*Most of my commercial work is in private repositories due to NDAs. Here is a glimpse of what I build:*
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP_8.2+-777BB4?logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Real-Time** | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-000?logo=socket.io&logoColor=white) ![Pusher](https://img.shields.io/badge/-Pusher-200?logo=pusher&logoColor=white) |
+| **DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) |
 
-### 🏗️ **Enterprise & ERP Systems**
-- **`elgazeya_bricks_management`:** A niche ERP solution for manufacturing management (Inventory, Production Line, Sales).
-- **`company-management`:** Internal dashboard for employee and resource tracking.
-- **`RentWise`:** Specialized rental management suite with availability orchestration.
+---
 
-### 🌐 **SaaS & Platforms**
-- **`Social-MERN`:** A scalable social networking architecture built with **TypeScript**, Node.js, and React.
-- **`6valley` & `eMart`:** Massive Multi-Vendor E-commerce implementations with custom logic extensions.
-- **`silkroad-legend-web`:** Web integration and management portal for gaming servers.
+## 📂 Project Portfolio (Comprehensive)
 
-### 🏥 **HealthTech**
-- **`MedicalCard`:** Secure patient data management system integrated with insurance APIs.
-- **`Zaad Store`:** B2B Medical Supply Chain Platform.
+### 🛒 E-Commerce & Multi-Tenant Marketplaces
+*Enterprise-grade platforms serving thousands of daily users.*
 
-### 🤖 **Automation & AI**
-- **`TelegramBot`:** Python-based automation bot for community management.
-- **`Scrapers`:** Multi-target data extraction tools using Python/Selenium.
+| Project | Type | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Primo** | Logistics SaaS | Laravel, Node.js, Redis | **Multi-Tenant Architecture**, Real-time Driver Tracking via WebSockets, Algorithmic Dispatching. |
+| **6valley** | Multi-Vendor | PHP, Laravel, Flutter | Complex commission systems, digital wallet integration, scalable order management. |
+| **eMart** | Delivery App | Laravel, Admin Panel | Grocery/Pharmacy delivery logic, geolocation services, driver app API integration. |
+| **Zaad Store** | B2B Medical | Laravel, Livewire | Specialized supply chain platform for hospitals, bulk inventory management. |
+
+### 🏢 ERP & Enterprise Management
+*Business process automation systems tailored for specific industries.*
+
+| Project | Domain | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Ali POS** | Retail/POS | Laravel, Spatie | **Barcode/QR Integration**, Thermal Printing, Offline-Sync, Dynamic Roles & Permissions. |
+| **RentWise** | Rental Mgt | Vue.js, Laravel | Inventory tracking for 500+ SKUs, Availability Calendars, Booking Orchestration. |
+| **Elgazeya Bricks** | Manufacturing | Blade, MySQL | Production line tracking, raw material inventory, sales reporting dashboard. |
+| **MedicalCard** | HealthTech | PHP, Secure API | HIPAA-compliant patient data management, Insurance API integration. |
+
+### 🌐 Social & Community Platforms
+*High-concurrency applications focused on user interaction.*
+
+| Project | Type | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Social-MERN** | Social Network | **TypeScript**, React, Node | Real-time chat, Feed algorithm, Notifications system, Media compression. |
+| **Silkroad Legend** | Gaming Portal | PHP, SQL | Game server integration, user ranking, account management panel. |
+| **TelegramBot** | Automation | Python | Community management, auto-moderation, external API webhooks. |
+
+---
+
+## 🤖 Advanced Capabilities
+- **Web Scraping:** Built custom Python scrapers (`Scraper/`) for multi-target data extraction (E-commerce prices, game stats).
+- **AI Integration:** Developing **Nanobot**, an internal AI agent for automated code refactoring and monitoring.
+- **Payment Gateways:** Integrated Stripe, PayPal, and local gateways for secure transactions handling **$10k+ monthly**.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abdelrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=radical&hide=html,css)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=radical&count_private=true" alt="Abdelrhman's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+</p>
 
 ---
 <div align="center">
-  Connect with me: <br>
-  <a href="https://linkedin.com/in/abdelrhman-shalby">LinkedIn</a> • <a href="https://codeivityeg.com">Codeivity</a> • abdoushalby@gmail.com
+  <a href="https://linkedin.com/in/abdelrhman-shalby">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeivityeg.com">
+    <img src="https://img.shields.io/badge/Visit-Codeivity-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </div>
