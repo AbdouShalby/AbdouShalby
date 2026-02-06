@@ -27,8 +27,8 @@ I am a **Full Stack Engineer** with 7+ years of experience specializing in the *
 | Project | Type | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
 | **Primo** | Logistics SaaS | Laravel, Node.js, Redis | **Multi-Tenant Architecture**, Real-time Driver Tracking via WebSockets, Algorithmic Dispatching. |
-| **6valley** | Multi-Vendor | PHP, Laravel, Flutter | Complex commission systems, digital wallet integration, scalable order management. |
-| **eMart** | Delivery App | Laravel, Admin Panel | Grocery/Pharmacy delivery logic, geolocation services, driver app API integration. |
+| **FlexCart** | Multi-Vendor | PHP, Laravel, Flutter | Complex commission systems, digital wallet integration, scalable order management. |
+| **MegaMal** | Delivery App | Laravel, Admin Panel | Grocery/Pharmacy delivery logic, geolocation services, driver app API integration. |
 | **Zaad Store** | B2B Medical | Laravel, Livewire | Specialized supply chain platform for hospitals, bulk inventory management. |
 
 ### 🏢 ERP & Enterprise Management
