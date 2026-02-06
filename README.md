@@ -1,35 +1,81 @@
-<p align="center">
-  <img align="center" width="400" height="60" src="https://readme-typing-svg.herokuapp.com?duration=4500&height=65&lines=Hello%F0%9F%91%8B%2C+I'm+Abdelrahman+Shalby;A+passionate+backend+developer">
-</p>
+# Hi there, I'm Abdelrhman Shalby 👋
 
-- 🌱 I’m currently learning **Tailwind**
+### 👨‍💻 Senior Software Architect & Founder @ [Codeivity](https://codeivityeg.com)
 
-- 👨‍💻 All of my projects are available at [Repo](https://github.com/AbdouShalby?tab=repositories)
+I am a seasoned **Full Stack Engineer** and **System Architect** with over 7 years of experience in building high-scale SaaS ecosystems, Multi-tenant Marketplaces, and Enterprise ERP solutions. I specialize in the **Laravel Ecosystem (v10-v12)** and **Cloud Infrastructure**, bridging the gap between complex business requirements and robust technical execution.
 
-- 💬 Ask me about **MySQL, PHP, Laravel**
+---
 
-- 📫 How to reach me **abdoushalby@gmail.com**
+## 🛠️ Tech Stack & Arsenal
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbdouShalby&theme=dracula)](https://git.io/streak-stats)
+**Backend & Architecture**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-## Contributions
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdouShalby&theme=dracula)
+**DevOps & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## Top Languages by Commit
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdouShalby&theme=dracula)
+---
 
-## Top Languages by Repo
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdouShalby&theme=dracula)
+## 💼 Key Enterprise Projects (Proprietary & Client Work)
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdouShalby&theme=dracula)
+*Due to Non-Disclosure Agreements (NDAs), source code for these projects is private. Below is a technical overview of the systems I architected.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrhman-shalby-9a652b1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhman-shalby-9a652b1b4/" height="30" width="40" /></a>
-<a href="https://fb.com/abdelrhman.shalby.37/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelrhman.shalby.37/" height="30" width="40" /></a>
-<a href="https://discord.gg/Abdou#2102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Abdou#2102" height="30" width="40" /></a>
-</p>
+### 🚀 **Primo: Multi-Tenant Logistics Ecosystem**
+> **Role:** Lead Architect | **Status:** Production
+A massive delivery platform connecting Merchants, Couriers, and Customers in real-time.
+- **Architecture:** Multi-tenant SaaS serving 50k+ daily requests.
+- **Key Tech:** Node.js/Redis WebSocket engine for **live driver tracking**, Algorithmic dispatching, Google Maps API optimization.
+- **Impact:** Reduced delivery dispatch time by 35%.
+
+### 🛒 **Ali POS: Enterprise Retail System**
+> **Role:** Lead Developer | **Status:** Production
+A comprehensive Point of Sale solution deployed for retail chains.
+- **Features:** Dynamic Roles/Permissions (Spatie), Barcode/QR Scanner integration, Offline-first capabilities.
+- **Key Tech:** Laravel, Livewire, Hardware Integration APIs.
+- **Impact:** Automates 1,000+ daily tax-compliant invoices.
+
+### 🏠 **RentWise: Specialized ERP Suite**
+> **Role:** Solutions Architect
+A bespoke management system for the rental industry.
+- **Features:** Inventory tracking for 500+ SKUs, Availability Calendars, Automated Booking Orchestration.
+- **Key Tech:** Vue.js, Laravel API, Complex SQL Optimization.
+- **Impact:** Increased asset utilization by 25%.
+
+### 🏥 **National Patient Record System (GovTech)**
+> **Role:** Backend Engineer
+A secure backend infrastructure for retrieving medical history via National ID.
+- **Focus:** Data Privacy, Encryption, High Availability.
+- **Key Tech:** Microservices, encrypted REST APIs.
+
+---
+
+## 🤖 AI & Automation
+I actively develop custom tools to automate workflows:
+- **Nanobot:** Internal AI agent for code generation and refactoring.
+- **Scrapers:** Python-based multi-target data extraction bots.
+
+---
+
+## 📊 GitHub Stats
+
+![Abdelrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=radical)
+
+---
+<div align="center">
+  Connect with me: <br>
+  <a href="https://linkedin.com/in/abdelrhman-shalby">LinkedIn</a> • <a href="https://codeivityeg.com">Codeivity</a> • abdoushalby@gmail.com
+</div>
