@@ -62,8 +62,8 @@ I am a **Full Stack Engineer** with 7+ years of experience specializing in the *
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=radical&count_private=true" alt="Abdelrhman's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=radical" alt="Abdelrhman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
