@@ -1,80 +1,79 @@
 # Hi there, I'm Abdelrhman Shalby 👋
 
-### 🚀 Senior Software Architect | Founder @ [Codeivity](https://codeivityeg.com)
+### 🚀 Senior Laravel Engineer | Backend Technical Lead
+**Specializing in High-Performance SaaS, API Architecture, and Database Optimization.**
 
-> *Building scalable ecosystems, not just websites. Architecting solutions for Logistics, Fintech, and Healthcare.*
-
-I am a **Full Stack Engineer** with 7+ years of experience specializing in the **Laravel Ecosystem (v10-v12)** and **Microservices Architecture**. I bridge the gap between complex business logic and high-performance code.
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrhman-shalby)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Codeivity-black?style=flat&logo=vercel)](https://codeivityeg.com)
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+### 👨‍💻 About Me
 
-| Domain | Technologies & Tools |
+I am a **Performance-Driven Senior Backend Engineer** with **7+ years of experience** in the PHP ecosystem. I don't just write code; I engineer scalable solutions that handle high traffic and complex business logic.
+
+* 🔭 **Currently:** Leading backend architecture at [Codeivity](https://codeivityeg.com), handling **50k+ daily requests**.
+* 💡 **Superpower:** Turning legacy monolithic code into modular, testable, and scalable **Microservices**.
+* 🛠 **Focus:** TDD (Test Driven Development), System Design, and Reducing Database Latency.
+* ⚡ **Impact:** Recently reduced system latency by **40%** and cut deployment time by **50%** via CI/CD pipelines.
+
+---
+
+### 🛠️ The Tech Stack (Arsenal)
+
+| Domain | Technologies |
 | :--- | :--- |
-| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP_8.2+-777BB4?logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Real-Time** | ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-000?logo=socket.io&logoColor=white) ![Pusher](https://img.shields.io/badge/-Pusher-200?logo=pusher&logoColor=white) |
-| **DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) |
+| **Backend Core** | ![PHP](https://img.shields.io/badge/PHP_8.2+-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_10/11-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
+| **Database & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
+| **Testing & Quality** | ![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-3776AB?style=flat&logo=php&logoColor=white) ![Pest](https://img.shields.io/badge/Pest-PHP-purple?style=flat) ![SonarQube](https://img.shields.io/badge/Clean_Code-SonarQube-4E9BCD?style=flat) |
 
 ---
 
-## 📂 Project Portfolio (Comprehensive)
+### 🚀 Featured Architectural Projects
 
-### 🛒 E-Commerce & Multi-Tenant Marketplaces
-*Enterprise-grade platforms serving thousands of daily users.*
+Here are select projects where I solved complex engineering challenges:
 
-| Project | Type | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **Primo** | Logistics SaaS | Laravel, Node.js, Redis | **Multi-Tenant Architecture**, Real-time Driver Tracking via WebSockets, Algorithmic Dispatching. |
-| **FlexCart** | Multi-Vendor | PHP, Laravel, Flutter | Complex commission systems, digital wallet integration, scalable order management. |
-| **MegaMal** | Delivery App | Laravel, Admin Panel | Grocery/Pharmacy delivery logic, geolocation services, driver app API integration. |
-| **Zaad Store** | B2B Medical | Laravel, Livewire | Specialized supply chain platform for hospitals, bulk inventory management. |
+#### 🚚 [Primo] - Multi-Tenant Logistics Ecosystem
+*A high-scale platform connecting merchants, customers, and drivers.*
+* **Architecture:** Refactored a legacy monolith into modular services.
+* **Tech:** Laravel, **Redis Pub/Sub** (Real-time tracking), WebSockets, Google Maps API.
+* **Impact:** Handled **50,000+ daily requests** and optimized dispatch algorithms to reduce delivery times by 35%.
 
-### 🏢 ERP & Enterprise Management
-*Business process automation systems tailored for specific industries.*
+#### 👗 [RentWise] - Specialized ERP & Inventory Engine
+*A bespoke ERP for the rental industry with complex availability logic.*
+* **Challenge:** Preventing double-bookings for 500+ unique SKUs across overlapping dates.
+* **Solution:** Designed a custom **Availability Conflict Algorithm** and optimized SQL indexing.
+* **Impact:** Reduced report generation time from **15s to <2s** for heavy datasets.
 
-| Project | Domain | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **Ali POS** | Retail/POS | Laravel, Spatie | **Barcode/QR Integration**, Thermal Printing, Offline-Sync, Dynamic Roles & Permissions. |
-| **RentWise** | Rental Mgt | Vue.js, Laravel | Inventory tracking for 500+ SKUs, Availability Calendars, Booking Orchestration. |
-| **Elgazeya Bricks** | Manufacturing | Blade, MySQL | Production line tracking, raw material inventory, sales reporting dashboard. |
-| **MedicalCard** | HealthTech | PHP, Secure API | HIPAA-compliant patient data management, Insurance API integration. |
+#### 🌐 [Neomianz] - Next-Gen Social Platform
+*Scalable backend for high-concurrency user interactions.*
+* **Tech:** Node.js, Next.js, **AWS S3** (Media Storage), PostgreSQL.
+* **Highlight:** Engineered a scalable database schema for social graphs (Followers/Feeds) and real-time notifications.
 
-### 🌐 Social & Community Platforms
-*High-concurrency applications focused on user interaction.*
-
-| Project | Type | Tech Stack | Highlights |
-| :--- | :--- | :--- | :--- |
-| **Social-MERN** | Social Network | **TypeScript**, React, Node | Real-time chat, Feed algorithm, Notifications system, Media compression. |
-| **Silkroad Legend** | Gaming Portal | PHP, SQL | Game server integration, user ranking, account management panel. |
-| **TelegramBot** | Automation | Python | Community management, auto-moderation, external API webhooks. |
+#### 🏥 [Zaad Store] - B2B Medical Supply Chain
+*Secure e-commerce infrastructure for hospitals and suppliers.*
+* **Focus:** Security & Compliance (RBAC).
+* **Impact:** Engineered a secure API gateway handling sensitive medical procurement data with **Zero Security Breaches**.
 
 ---
 
-## 🤖 Advanced Capabilities
-- **AI Integration:** Developing **Nanobot**, an internal AI agent for automated code refactoring and monitoring.
-- **Payment Gateways:** Integrated Stripe, PayPal, and local gateways for secure transactions handling **$10k+ monthly**.
-
----
-
-## 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdouShalby&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdouShalby&theme=radical" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdouShalby&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdouShalby&theme=radical&utcOffset=2" alt="Productive Time" />
 </p>
 
 ---
+
 <div align="center">
-  <a href="https://linkedin.com/in/abdelrhman-shalby">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeivityeg.com">
-    <img src="https://img.shields.io/badge/Visit-Codeivity-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <p><i>"Quality is not an act, it is a habit."</i></p>
+  <a href="mailto:abdoushalby@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
