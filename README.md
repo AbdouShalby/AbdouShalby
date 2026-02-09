@@ -53,8 +53,8 @@ Here are select enterprise projects where I solved complex engineering challenge
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="AbdouShalby's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbdouShalby&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="AbdouShalby's Github Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" />
 </p>
 
 ---
