@@ -1,79 +1,65 @@
 # Hi there, I'm Abdelrhman Shalby 👋
 
-### 🚀 Senior Laravel Engineer | Backend Technical Lead
-**Specializing in High-Performance SaaS, API Architecture, and Database Optimization.**
+### 🚀 Senior Full Stack Engineer | System Architect | AI-Augmented Developer
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/abdelrhman-shalby)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Codeivity-black?style=flat&logo=vercel)](https://codeivityeg.com)
+I am a **Performance-Driven Senior Engineer** with 7+ years of experience architecting scalable SaaS solutions. I bridge the gap between complex backend logic and dynamic frontend experiences. As Co-Founder of **Codeivity**, I specialize in building **FinTech**, **Logistics**, and **Real-time Systems** that handle high concurrency and sensitive data.
 
----
-
-### 👨‍💻 About Me
-
-I am a **Performance-Driven Senior Backend Engineer** with **7+ years of experience** in the PHP ecosystem. I don't just write code; I engineer scalable solutions that handle high traffic and complex business logic.
-
-* 🔭 **Currently:** Leading backend architecture at [Codeivity](https://codeivityeg.com), handling **50k+ daily requests**.
-* 💡 **Superpower:** Turning legacy monolithic code into modular, testable, and scalable **Microservices**.
-* 🛠 **Focus:** TDD (Test Driven Development), System Design, and Reducing Database Latency.
-* ⚡ **Impact:** Recently reduced system latency by **40%** and cut deployment time by **50%** via CI/CD pipelines.
+Currently, I leverage **AI-Native workflows** (Cursor, Windsurf) to accelerate development cycles by 40% while maintaining strict code quality standards.
 
 ---
 
-### 🛠️ The Tech Stack (Arsenal)
+### 🛠️ The Arsenal (Tech Stack)
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend Core** | ![PHP](https://img.shields.io/badge/PHP_8.2+-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel_10/11-FF2D20?style=flat&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
-| **Database & Caching** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
-| **Testing & Quality** | ![PHPUnit](https://img.shields.io/badge/PHPUnit-Testing-3776AB?style=flat&logo=php&logoColor=white) ![Pest](https://img.shields.io/badge/Pest-PHP-purple?style=flat) ![SonarQube](https://img.shields.io/badge/Clean_Code-SonarQube-4E9BCD?style=flat) |
+| **Backend Core** | ![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-10%2F11-FF2D20?style=flat&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Realtime-339933?style=flat&logo=node.js&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Database & Cloud** | ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20S3-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-Caching-DC382D?style=flat&logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **AI & Tooling** | ![Cursor](https://img.shields.io/badge/Cursor-AI_Editor-black?style=flat) ![Windsurf](https://img.shields.io/badge/Windsurf-AI_Agent-blue?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-### 🚀 Featured Architectural Projects
+### 🏗️ Featured Architectural Projects
 
-Here are select projects where I solved complex engineering challenges:
+Here are select enterprise projects where I solved complex engineering challenges:
 
-#### 🚚 [Primo] - Multi-Tenant Logistics Ecosystem
-*A high-scale platform connecting merchants, customers, and drivers.*
-* **Architecture:** Refactored a legacy monolith into modular services.
-* **Tech:** Laravel, **Redis Pub/Sub** (Real-time tracking), WebSockets, Google Maps API.
-* **Impact:** Handled **50,000+ daily requests** and optimized dispatch algorithms to reduce delivery times by 35%.
+#### 🚚 Enterprise Multi-Vendor Logistics Platform (High-Availability)
+*A scalable ecosystem connecting merchants, customers, and drivers (Uber-Model).*
+- **Architecture:** Decoupled order processing using **Laravel Queues** to handle high traffic spikes.
+- **Innovation:** Replaced expensive Firebase reads with a custom **WebSocket Server**, reducing costs by 60% while maintaining sub-second latency for live driver tracking.
+- **Resilience:** Implemented an "Offline-First" sync mechanism for drivers in low-connectivity areas.
+- **Tech:** `Laravel` `Redis` `WebSockets` `Google Maps API` `MySQL`
 
-#### 👗 [RentWise] - Specialized ERP & Inventory Engine
-*A bespoke ERP for the rental industry with complex availability logic.*
-* **Challenge:** Preventing double-bookings for 500+ unique SKUs across overlapping dates.
-* **Solution:** Designed a custom **Availability Conflict Algorithm** and optimized SQL indexing.
-* **Impact:** Reduced report generation time from **15s to <2s** for heavy datasets.
+#### 💳 Hybrid Retail POS & Crypto Ledger (Real-Time Concurrency)
+*A complex POS for high-volume electronics & crypto retail.*
+- **Challenge:** Preventing "Race Conditions" where multiple cashiers sell the last item simultaneously.
+- **Solution:** Designed a **Real-Time Conflict Resolution** engine via WebSockets to lock inventory instantly during transaction processing.
+- **FinTech:** Architected a **Dual-Ledger System** to audit Fiat sales vs. USDT transactions independently.
+- **Tech:** `Laravel` `Vue.js` `WebSockets` `JSON Columns`
 
-#### 🌐 [Neomianz] - Next-Gen Social Platform
+#### 🏥 National Medical Verification System (Anti-Fraud)
+*Secure platform for verifying medical reports linked to National IDs.*
+- **Focus:** Data Integrity & Security.
+- **Solution:** Implemented **Encrypted QR Code** generation that allows instant verification without database hits, preventing report tampering.
+- **Tech:** `PHP` `Security/Encryption` `API Development`
+
+#### 🌐 Next-Gen Social Media Platform (KSA Market)
 *Scalable backend for high-concurrency user interactions.*
-* **Tech:** Node.js, Next.js, **AWS S3** (Media Storage), PostgreSQL.
-* **Highlight:** Engineered a scalable database schema for social graphs (Followers/Feeds) and real-time notifications.
-
-#### 🏥 [Zaad Store] - B2B Medical Supply Chain
-*Secure e-commerce infrastructure for hospitals and suppliers.*
-* **Focus:** Security & Compliance (RBAC).
-* **Impact:** Engineered a secure API gateway handling sensitive medical procurement data with **Zero Security Breaches**.
+- **Highlight:** Engineered a scalable database schema for social graphs (Followers/Feeds) using **NoSQL (MongoDB)** within a MERN stack to ensure fast feed retrieval.
+- **Tech:** `MERN Stack` `AWS S3` `Microservices Architecture`
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdouShalby&theme=radical" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdouShalby&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdouShalby&theme=radical&utcOffset=2" alt="Productive Time" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdouShalby&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="AbdouShalby's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdouShalby&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" />
 </p>
 
 ---
 
-<div align="center">
-  <p><i>"Quality is not an act, it is a habit."</i></p>
-  <a href="mailto:abdoushalby@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  Let's build something scalable together! 🚀 <br>
+  <a href="https://linkedin.com/in/abdelrhman-shalby">Connect on LinkedIn</a>
+</p>
