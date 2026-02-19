@@ -18,6 +18,7 @@ My core expertise lies in:
 - AWS-based infrastructure deployment
 
 I focus on building backend systems that handle real-world production load, minimize latency, and scale reliably under pressure.
+I prioritize reliability, consistency, and performance under high traffic and concurrent workloads.
 
 ---
 
@@ -49,7 +50,7 @@ I focus on building backend systems that handle real-world production load, mini
 
 ### Scalable Order Processing System
 
-Designed a high-concurrency backend system capable of handling multi-vendor order flows with real-time updates.
+Architected and implemented a high-concurrency backend system capable of handling multi-vendor order flows with real-time updates and race-condition prevention.
 
 **Key highlights:**
 - Atomic inventory reservation
