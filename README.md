@@ -6,7 +6,7 @@ Senior Backend Engineer focused on high-concurrency systems, scalable architectu
 
 ## About Me
 
-I have 7+ years of experience designing and building scalable backend systems for marketplaces, logistics platforms, and financial applications.
+I have 7+ years of experience designing and delivering production-grade backend systems serving real-world business operations across marketplaces, logistics platforms, and financial applications.
 
 My core expertise lies in:
 
