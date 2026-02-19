@@ -25,9 +25,12 @@ I prioritize reliability, consistency, and performance under high traffic and co
 ## Core Backend Stack
 
 **Backend**
-- PHP (Laravel)
-- Symfony
-- Node.js
+- PHP (Laravel, Symfony)
+- High-performance RESTful APIs
+- Event-driven architectures (Redis / Queues)
+- MySQL performance optimization
+- AWS infrastructure (EC2, S3)
+- Docker & CI/CD pipelines
 
 **Database**
 - MySQL
