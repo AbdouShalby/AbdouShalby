@@ -1,6 +1,6 @@
 # Abdelrhman Shalby
 
-Senior Backend Engineer specializing in fintech-grade systems, distributed architectures, and high-traffic production environments.
+Senior Backend Engineer specializing in transaction-safe and high-concurrency backend systems, distributed architectures, and high-traffic production environments.
 
 ---
 
@@ -23,7 +23,7 @@ My focus is on correctness under pressure, system reliability, and clean archite
 - High-traffic REST API design
 - Database performance optimization (MySQL / PostgreSQL)
 - Infrastructure ownership (AWS, Docker, CI/CD)
-- Backend team leadership & architectural decision-making
+- Backend team leadership (7 engineers) & hands-on architectural ownership
 
 ---
 
