@@ -1,78 +1,124 @@
 # Abdelrhman Shalby
 
-Senior Backend Engineer focused on high-concurrency systems, scalable architecture, and production-grade SaaS platforms.
+Senior Backend Engineer specializing in fintech-grade systems, distributed architectures, and high-traffic production environments.
 
 ---
 
-## About Me
+## Who I Am
 
-I have 7+ years of experience designing and delivering production-grade backend systems serving real-world business operations across marketplaces, logistics platforms, and financial applications.
+Backend engineer with 7+ years of commercial experience building and operating transaction-safe, high-concurrency systems in real production environments.
 
-My core expertise lies in:
+I design backend systems that handle financial integrity, race conditions, distributed workloads, and infrastructure-level scaling — not just APIs.
 
-- High-concurrency order processing systems
-- Redis-based queue architectures
-- Atomic database transactions
-- RESTful API design
-- MySQL performance optimization
-- AWS-based infrastructure deployment
-
-I focus on building backend systems that handle real-world production load, minimize latency, and scale reliably under pressure.
-I prioritize reliability, consistency, and performance under high traffic and concurrent workloads.
+My focus is on correctness under pressure, system reliability, and clean architectural decision-making.
 
 ---
 
-## Core Backend Stack
+## Core Expertise
 
-**Backend**
-- PHP (Laravel, Symfony)
-- High-performance RESTful APIs
-- Event-driven architectures (Redis / Queues)
-- MySQL performance optimization
-- AWS infrastructure (EC2, S3)
-- Docker & CI/CD pipelines
+- Transaction-safe financial systems (idempotent APIs, atomic flows)
+- High-concurrency order and payment processing
+- Distributed locking & race-condition prevention
+- Event-driven architectures (queues, async workers)
+- High-traffic REST API design
+- Database performance optimization (MySQL / PostgreSQL)
+- Infrastructure ownership (AWS, Docker, CI/CD)
+- Backend team leadership & architectural decision-making
 
-**Database**
-- MySQL
-- PostgreSQL
-- Query optimization & indexing strategies
+---
 
-**Caching & Queues**
-- Redis
-- Event-driven patterns
+## Production Experience Highlights
+
+- Built and maintained fintech systems handling real monetary transactions
+- Designed idempotent payment flows with consistency guarantees
+- Optimized high-traffic systems under concurrent load
+- Led backend engineers while remaining hands-on in architecture and code
+- Owned AWS infrastructure deployment and CI/CD pipelines
+
+---
+
+## Technical Stack
+
+### Backend
+- PHP (Laravel)
+- Node.js + TypeScript
+- RESTful APIs
+- Event-driven systems
 - Worker-based architectures
 
-**Infrastructure**
+### Databases
+- MySQL (query tuning, indexing, transaction management)
+- PostgreSQL
+
+### Caching & Queues
+- Redis
+- Distributed queue processing
+- Concurrency control patterns
+
+### Infrastructure
 - AWS (EC2, S3)
 - Docker
-- CI/CD
+- CI/CD pipelines
+- Production deployment workflows
 
 ---
 
-## Featured Architecture Project
+## Architecture & Distributed Systems Projects
 
-### Scalable Order Processing System
+### Distributed Order Processing System
+High-concurrency backend architecture simulating multi-vendor transactional flows with race-condition prevention and event-driven processing.
 
-Architected and implemented a high-concurrency backend system capable of handling multi-vendor order flows with real-time updates and race-condition prevention.
-
-**Key highlights:**
-- Atomic inventory reservation
-- Redis-based queue workers
-- Event-driven processing
-- Race-condition prevention
-- Real-time broadcasting
+→ Atomic inventory reservation  
+→ Queue-based async workers  
+→ Concurrency-safe design  
+→ Failure scenario analysis  
+→ Explicit trade-offs documentation  
 
 Repository:
-https://github.com/AbdouShalby/scalable-order-architecture
+https://github.com/AbdouShalby/Distributed-Order-Processing-System
+
 
 ---
 
-## What I Bring
+### Distributed Locking Deep Dive Lab
+Technical exploration of distributed locking strategies, failure cases, and concurrency edge scenarios.
 
-- Production-grade backend systems
-- Clean, maintainable architecture
-- Performance-first mindset
-- Real-world scalability experience
+→ Locking mechanisms comparison  
+→ Race-condition simulations  
+→ Trade-off analysis  
+→ Real-world production implications  
+
+Repository:
+https://github.com/AbdouShalby/Distributed-Locking-Deep-Dive-Lab
+
+
+---
+
+### Backend Architecture Case Studies
+Deep architectural breakdowns of scalable backend systems including fintech, high-scale marketplaces, real-time notifications, and rate limiting.
+
+Each case study includes:
+- Requirements & constraints
+- Capacity estimation
+- Architectural decisions
+- Trade-offs & known risks
+- Failure scenarios
+- Mitigation strategies
+
+Repository:
+https://github.com/AbdouShalby/Backend-Architecture-Case-Studies
+
+
+---
+
+## What I Bring to a Team
+
+- Production realism over theoretical design
+- Strong ownership mindset
+- Clear architectural reasoning
+- Reliability-first engineering
+- Clean and maintainable system design
+- Ability to operate in high-risk, high-growth startup environments
 
 ---
 
