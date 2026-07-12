@@ -111,6 +111,22 @@ https://github.com/AbdouShalby/Backend-Architecture-Case-Studies
 
 ---
 
+### WebSocket Scaling Lab
+
+Horizontally-scalable WebSocket fan-out architecture — Node.js + Redis pub/sub.
+A distilled, reproducible version of the real-time marketplace architecture
+I built and operated in production (30k+ concurrent connections).
+
+→ Cross-instance fan-out via Redis pub/sub (stateless instances, O(subscribers) delivery)
+→ Explicit backpressure policy: slow-consumer drop/kick, every drop counted in metrics
+→ Heartbeat dead-connection reaping + graceful drain on deploy
+→ E2E latency benchmark (publish → Redis → instance → client) across thousands of connections
+→ 10 tests + green CI against real Redis
+
+Repository: https://github.com/AbdouShalby/WebSocket-Scaling-Lab
+
+---
+
 ## What I Bring to a Team
 
 - Production realism over theoretical design
