@@ -2,7 +2,7 @@
 Senior Backend Engineer (Laravel, Node.js). I build systems that stay correct under load: payments, ledgers, orders, real-time traffic.
 
 - Now: sole developer of an insurance-brokerage platform (Laravel + Flutter) at DTS Group.
-- Before: founded Codeivity (2021 to 2026) and led 7 engineers. a multi-vendor logistics platform whose real-time backend I designed and load-tested for 30,000+ concurrent users; live POS and crypto ledger.
+- Before: founded Codeivity (2021 to 2026) and led 7 engineers. Highlights: a multi-vendor logistics platform whose real-time backend I designed and load-tested for 30,000+ concurrent users, and a live POS and crypto ledger.
 - How I work: I design and review; AI coding agents help me ship faster. Every change is reviewed and tested.
 
 ## Proof repos
